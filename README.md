@@ -4,7 +4,21 @@ This repo is dedicated to collecting and preserving all the stories, reports, an
 
 Since many of these posts get deleted over time (probably due to fear or pressure), we’ve backed them up using [archive.ph](https://archive.ph). This will make sure the truth doesn’t disappear.
 
----
+---  
+
+# **⚠️ DISCLAIMER – READ BEFORE CONTINUING**
+
+The following posts, links, and media are archived solely for backup and reference purposes. Most of the content here comes from anonymous students online (especially Reddit), and should not be treated as verified facts.
+
+These stories might be true, exaggerated, or in some cases, completely false - **we don’t know for sure.** The goal of this archive is to make sure student voices don’t disappear, especially in situations where posts get deleted out of fear or pressure.
+
+🔘 Innocent until proven guilty — Always.  
+🔘 Do not harass or target any individuals or institutions mentioned here.  
+🔘 You are not the law, Do not take them into your own hands.  
+
+Again: This is not a verdict. It’s a backup of online complaints for awareness, discussion, and possible investigation in the future — nothing more.
+
+---  
 
 ## 🧾 All-in-One Summary
 
@@ -48,6 +62,10 @@ Since many of these posts get deleted over time (probably due to fear or pressur
   Students claim staff monitor their online activity and use CCTV to target them.  
   [Reddit Comment](https://www.reddit.com/r/NepalPlusTwo/comments/1m4jxdc/comment/n4jlwkr/) | [Archive](https://archive.ph/n4YqM)
 
+- **Privacy Invasion In Hostel and By Wardens**  
+  Hostel student claming to have no privacy in hostel and not getting proper and basic care.  
+  [Reddit Comment](https://www.reddit.com/r/NepalPlusTwo/comments/1m78nhi/comment/n4pnquv/) | [Archive](https://archive.ph/Dl5b2)
+
 ---
 
 ## 📲 Harassment via Phone & DMs
@@ -64,6 +82,9 @@ Since many of these posts get deleted over time (probably due to fear or pressur
   A student’s diary (with cash) was taken during inspection and never returned.  
   [Reddit Comment](https://reddit.com/r/NepalPlusTwo/comments/1m4jxdc/kathmandu_model_colleges_ci_staff_humiliate_and/n4hl5vp/) | [Archive](https://archive.ph/uSRHs)
 
+- **Student's necklace confiscated and used in tiktok by CI**  
+  According to various claims on other posts, a female CI had confiscated a student's necklace and was never returned to her, instead she was caught making tiktok video wearing it.  
+  [Tiktok Video](https://github.com/Subhachintak/KMCScandals/blob/main/Misc/VID_20250723_081654_474.mp4)
 ---
 
 ## 🏚️ Hidden Campus Issues
@@ -87,7 +108,9 @@ Since many of these posts get deleted over time (probably due to fear or pressur
 - **Overloaded with nonsense homework**  
   Students forced to do irrelevant assignments that make no sense.  
   [Reddit](https://www.reddit.com/r/NepalPlusTwo/comments/1m6jhh3/absurd_homework/) | [Archive](https://archive.ph/Gj1N8)
-
+- **Discriminative classroom environment and education**  
+  Another student sharing their experience regarding rigged education system.  
+  [Reddit](https://www.reddit.com/r/NepalPlusTwo/comments/1m78nhi/comment/n4qgmhv/) | [Archive](https://archive.ph/rZwoW)
 ---
 
 ## 🗣️ Alumni Speak Out
@@ -121,4 +144,4 @@ Because students are scared. Posts get deleted. Staff gaslights victims. This re
 > **Step up, Speak up**
 
 
-@Subhachintak
+**- @Subhachintak**
