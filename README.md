@@ -84,7 +84,11 @@ Again: This is not a verdict. It’s a backup of online complaints for awareness
 
 - **Student's necklace confiscated and used in tiktok by CI**  
   According to various claims on other posts, a female CI had confiscated a student's necklace and was never returned to her, instead she was caught making tiktok video wearing it.  
-  [Tiktok Video](https://github.com/Subhachintak/KMCScandals/blob/main/Misc/VID_20250723_081654_474.mp4)
+  [Tiktok Video](https://github.com/Subhachintak/KMCScandals/blob/main/Misc/VID_20250723_081654_474.mp4)  
+
+- **Confiscated items never being returned**  
+  Claims from another student about confiscated items never being returned and other harassment cases.  
+  [Reddit](https://www.reddit.com/r/NepalPlusTwo/comments/1m7hi07/bullies_in_uniform/) | [Archive](https://archive.ph/yJSJq)
 ---
 
 ## 🏚️ Hidden Campus Issues
